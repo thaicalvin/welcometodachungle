@@ -1,6 +1,6 @@
 // var rHeight =5;
-// var colorEven = "orange";
-// var colorOdd = "black";
+// var colorEven = "lime";
+// var colorOdd = "blue";
 // var symbol ="*";
 
 function createRhombus(pHeight, pColorEven, pColorOdd, pSymbol) {
